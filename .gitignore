@@ -1,2 +1,9 @@
 # Ignore Directory and Files
 .vs/
+bin/
+dump/
+*.exe
+*.dll
+*.pdb
+*.obj
+*.log
